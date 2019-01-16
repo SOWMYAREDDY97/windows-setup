@@ -55,3 +55,4 @@ Update your folder context menu.
 ## Next Steps
 
 - See [Windows File Management](https://github.com/denisecase/windows-file-management)
+## New section
